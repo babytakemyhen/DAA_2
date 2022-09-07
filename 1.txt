@@ -1,0 +1,3 @@
+print("Hello, World!")
+print("Nama saya (Rizky Mahendra)")
+print("NIM saya (2021071012)")

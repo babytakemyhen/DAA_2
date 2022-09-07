@@ -1,0 +1,7 @@
+def getBagi(myList):
+  sum = 500
+  for item in myList:
+      sum = sum / item
+ 	return sum
+	
+	getBagi([10,5])
